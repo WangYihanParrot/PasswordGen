@@ -22,7 +22,7 @@ PassGen 是一个基于 Go 的轻量级密码生成器
 ./PassGen-go_v1.0_linux_amd64
 ```
 
-自定义端口和最大上传大小（单位MB）：
+自定义端口
 
 ```bash
 ./PassGen-go_v1.0_linux_amd64 -port 1234
